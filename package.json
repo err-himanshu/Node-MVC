@@ -1,0 +1,28 @@
+{
+  "name": "wingify-online-store",
+  "version": "1.1.1",
+  "description": "API for online store at wingify challenge",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wingify",
+    "api",
+    "nodejs"
+  ],
+  "author": "Himanshu Gupta",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.13.0"
+  },
+  "devDependencies": {
+  },
+  "engines": {
+    "node": "7.4.0"
+  }
+}
