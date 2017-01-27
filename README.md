@@ -2,7 +2,8 @@
 
  A Pure node js MVC Solution to create rest api </br>
  
- #TECH STACK
+ # TECH STACK
+ 
   . NODEJS </br>
   . MYSQL </br>
   . HEROKU </br>
@@ -12,14 +13,13 @@
   1. Clone this repo and install node and mysql in your system </br>
   2. NPM install </br>
   3. Create Database and Update credentail in config/database.js </br>
-  4. mention port in app.js
+  4. mention port in app.js</br>
   4. run node app.js </br>
-  
   Your app will be running on now
   
-  Please let me know for issues or area of improvization 
+   Please let me know for issues or area of improvization 
   
-  Thanks
+   # Thanks
 
  
  
