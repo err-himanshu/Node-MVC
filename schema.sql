@@ -4,6 +4,7 @@
         `id` INT NOT NULL AUTO_INCREMENT,
         `email` VARCHAR(100) NOT NULL,
         `password` VARCHAR(100) NOT NULL,
+        `user_role` VARCHAR(50) NOT NULL,
         `auth_token` VARCHAR(100) NOT NULL,
         `date_added` DATETIME,
         `date_modified` DATETIME,
