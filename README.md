@@ -1,6 +1,6 @@
-# Wingify-node
+# Node MVC Strutcture
 
- A Pure node js MVC Solution to create rest api </br>
+ A Pure node js MVC Solution to create rest api, This app allows you to create a full MVC structure using Pure NodeJS </br>
  
  # TECH STACK
  
